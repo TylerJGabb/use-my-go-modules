@@ -1,0 +1,4 @@
+github.com/TylerJGabb/my-go-module v1.0.0 h1:sPTUoJMQPm6fLbl7MNCHnQQB9h81V6WUSZ3xcO/7adk=
+github.com/TylerJGabb/my-go-module v1.0.0/go.mod h1:sEAVy2cVz1pBhgc7MIHI318aawhGgruvYSAIhQb++1s=
+github.com/TylerJGabb/new-go-priv-mod v1.0.1 h1:+wJ2M9yJMSvbXgGV38GjEFFnJI6BfRLXhbsCJ/EnoAg=
+github.com/TylerJGabb/new-go-priv-mod v1.0.1/go.mod h1:9z3f9UMNC9v2eHTmcUeZsZ+12FOc6Hq2XXQgANBbE58=
