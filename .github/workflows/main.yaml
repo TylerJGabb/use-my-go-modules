@@ -18,6 +18,7 @@ jobs:
         uses: actions/setup-go@v2
         with:
           go-version: 1.21.4
+        # https://blog.fabianmendez.dev/how-to-use-private-go-module-in-github-actions          
       - run: git config --global url.https://$GH_ACCESS_TOKEN@github.com/.insteadOf https://github.com/
       - name: Build foo
         run: |
